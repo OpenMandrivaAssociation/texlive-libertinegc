@@ -1,6 +1,6 @@
 Name:		texlive-libertinegc
 Version:	44616
-Release:	1
+Release:	2
 Summary:	Libertine add-on to support Greek and Cyrillic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinegc
