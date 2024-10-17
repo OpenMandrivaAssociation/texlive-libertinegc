@@ -3,7 +3,7 @@ Version:	44616
 Release:	2
 Summary:	Libertine add-on to support Greek and Cyrillic
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinegc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/libertinegc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinegc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinegc.doc.r%{version}.tar.xz
